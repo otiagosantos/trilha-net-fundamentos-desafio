@@ -1,6 +1,13 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+## Desafio resolvido
+
+O desafio acaba de ser resolvido após realease/v1.0.0. A Adição, listagem e remoção de veículos foi implementada com sucesso.
+
+Siga abaixo os detalhes do desafio...
+
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
