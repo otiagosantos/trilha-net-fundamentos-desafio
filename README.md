@@ -3,7 +3,7 @@ www.dio.me
 
 ## Desafio resolvido
 
-O desafio acaba de ser resolvido após realease/v1.0.0. A Adição, listagem e remoção de veículos foi implementada com sucesso.
+O desafio acaba de ser resolvido após release/v1.0.0. A Adição, listagem e remoção de veículos foi implementada com sucesso.
 
 Siga abaixo os detalhes do desafio...
 
